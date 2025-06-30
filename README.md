@@ -6,8 +6,7 @@ our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a>
   <a href="https://drive.google.com/file/d/1xHkqE-eloibsI3BwPgD_jrtLO1TaRAlt/view?usp=sharing">
 Augmented-GlaS-MICCAI2015-ImageMask-Dataset.zip</a>, which was derived by us from the 
 <a href="https://www.kaggle.com/datasets/sani84/glasmiccai2015-gland-segmentation">
-GlaS@MICCAI'2015: Gland Segmentation
-Gland Segmentation in Colon Histology Images Challenge</a>
+GlaS@MICCAI'2015: Gland Segmentation Colon Histology Images Challenge</a>
 <br>
 <br><br>
 <hr>
@@ -42,8 +41,7 @@ As shown below, the inferred masks look very similar to the ground truth masks. 
 
 The original dataset used here has been taken from the kaggle website:<br>
 <a href="https://www.kaggle.com/datasets/sani84/glasmiccai2015-gland-segmentation">
-GlaS@MICCAI'2015: Gland Segmentation
-Gland Segmentation in Colon Histology Images Challenge</a>
+GlaS@MICCAI'2015: Gland Segmentation in Colon Histology Images Challenge</a>
 <br>
 <br>
 <b>About Dataset</b><br>
